@@ -1,0 +1,19 @@
+name: Loan-Approval-Prediction
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - pandas
+  - numba
+  - numpy
+  - scikit-learn
+  - matplotlib
+  - seaborn
+  - mlflow
+  - pre-commit
+  - ipython
+  - librosa
+  - databricks-sdk
+  - mlxtend
+  - ipykernel
+  - xgboost
